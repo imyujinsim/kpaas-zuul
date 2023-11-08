@@ -1,0 +1,7 @@
+kpaas\msa\fallback\BoardFallbackConfiguration.class
+kpaas\msa\filter\AuthFilter.class
+kpaas\msa\zuul\ServletInitializer.class
+kpaas\msa\fallback\CommentFallbackConfiguration.class
+kpaas\msa\fallback\GatewayClientResponse.class
+kpaas\msa\zuul\ZuulApplication.class
+kpaas\msa\fallback\UserFallbackConfiguration.class
